@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458350460274",
+    "project_id": "initial-teleo",
+    "storage_bucket": "initial-teleo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458350460274:android:9bc10673caf13d7d7b71eb",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458350460274-3m1t8v5krftgvi4jesjp4pi7iave2n8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_d8B67eZyh6iXoZj9wPI7S6MNAqGGNmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458350460274-3m1t8v5krftgvi4jesjp4pi7iave2n8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
